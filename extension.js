@@ -91,7 +91,7 @@
       motdEnabled: true,
       motdInterval: 60,
       motd: "Check us out at http://alphaborne.net",
-      filterChat: true,
+      filterChat: false,
       etaRestriction: false,
       welcome: true,
       opLink: null,
